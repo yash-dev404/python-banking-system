@@ -1,5 +1,3 @@
-# python-banking-system
-
 # Python Banking System
 
 A simple banking system built using Object-Oriented Programming in Python.
